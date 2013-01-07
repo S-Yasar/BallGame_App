@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "0.9.0">
+	<gap:platforms>
+		<gap:platform name="ios" />
+		<gap:platform name="android" />
+		<gap:platform name="webos" />
+		<gap:platform name="symbian.wrt" />
+		<gap:platform name="blackberry" project="widgets"/>
+	</gap:platforms>
+
+<preference name="permissions" value="none"/>
+<feature name="http://api.phonegap.com/1.0/network"/>	
+<preference name="orientation" value="landscape" />
+<preference name="fullscreen" value="true" />
+<preference name="target-device" value="universal" />
+
+<name>Ball Game: Beta</name>
+<icon src="logo.png" width="100px" height="100px" />
+<gap:splash src="loader.gif" />
+<description>
+A simple PhoneGap Build game application.
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Samin Yasar
+</author>
+</widget>
+
+
