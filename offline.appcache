@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1357768982
+#1357774386
 index.html
 c2runtime.js
 jquery-1.7.1.min.js
@@ -18,6 +18,8 @@ images\barwithrotation-sheet0.png
 images\immoveablebardifferedaction-sheet0.png
 images\immoveablebardifferedactionh-sheet0.png
 images\moveablebardifferedaction-sheet0.png
-images\extraboxdiffereduse2-sheet0.png
+images\buttonrestart2-sheet0.png
+images\buttonrotation2-sheet0.png
+images\buttonstart2-sheet0.png
 NETWORK:
 *
