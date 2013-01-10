@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1357774386
+#1357860190
 index.html
 c2runtime.js
 jquery-1.7.1.min.js
@@ -12,7 +12,6 @@ images\tirefinshbox-sheet0.png
 images\tirestartbox-sheet0.png
 images\glass-sheet0.png
 images\extraboxdiffereduse-sheet0.png
-images\ui-sheet0.png
 images\levelcompleted-sheet0.png
 images\barwithrotation-sheet0.png
 images\immoveablebardifferedaction-sheet0.png
@@ -21,5 +20,14 @@ images\moveablebardifferedaction-sheet0.png
 images\buttonrestart2-sheet0.png
 images\buttonrotation2-sheet0.png
 images\buttonstart2-sheet0.png
+images\ui2-sheet0.png
+images\buttonplay-sheet0.png
+images\buttoninstructions-sheet0.png
+images\buttonreplay-sheet0.png
+images\congratmessage-sheet0.png
+images\buttontomenu-sheet0.png
+images\buttonoptions-sheet0.png
+images\buttonback-sheet0.png
+images\buttonscale-sheet0.png
 NETWORK:
 *
