@@ -17,15 +17,18 @@
 <preference name="fullscreen" value="false" />
 <preference name="target-device" value="universal" />
 
-<name>Ball Game: Beta</name>
+<name>Falling Tire</name>
 <icon src="logo.png" width="100px" height="100px" />
 <gap:splash src="loader.gif" />
 <description>
-A simple PhoneGap Build game application.
+Description: Easy to play, Falling Tire has everything that a game needs! Falling Tire tests players' ability to map out paths, while keeping the flow of addictivity. With ten action packed levels, Falling Tire will keep you going for hours!
+The rule is extremely simple: use the blocks to create a simple pathway for the ball to Falling Tire into the box. Easy peasy! 
+iOS compatibility coming soon! 
+Supported By: Android, Symbian, Windows Phone OS
 </description>
 
 <author href="https://example.com" email="you@example.com">
-Samin Yasar
+AppSource
 </author>
 </widget>
 
