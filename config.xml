@@ -18,7 +18,7 @@
 <preference name="target-device" value="universal" />
 
 <name>Falling Tire</name>
-<icon src="logo.png" width="100px" height="100px" />
+<icon src="icon.png" width="100px" height="100px" />
 <gap:splash src="loader.gif" />
 <description>
 Description: Easy to play, Falling Tire has everything that a game needs! Falling Tire tests players' ability to map out paths, while keeping the flow of addictivity. With ten action packed levels, Falling Tire will keep you going for hours!
